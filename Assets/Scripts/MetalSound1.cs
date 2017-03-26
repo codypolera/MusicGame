@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class MetalSound1 : MonoBehaviour
 {
-    public AudioClip metalHit;
+    public AudioClip sound;
 
     private AudioSource source;
 
@@ -16,7 +16,7 @@ public class MetalSound1 : MonoBehaviour
 
     void OnCollisionEnter(Collision coll)
     {
-        source.PlayOneShot(metalHit, 1F);
+        source.PlayOneShot(sound, 1F);
     }
 
 }
