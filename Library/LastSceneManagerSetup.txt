@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Scene/buildings.unity
+- path: Assets/SixenseInput/DemoScenes/SixenseHands.unity
   isLoaded: 1
   isActive: 1
