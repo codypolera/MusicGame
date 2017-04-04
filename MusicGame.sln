@@ -1,9 +1,9 @@
+﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual Studio 2008
-
-Project("{1FDF8518-5510-7E17-831F-29C6D3300D9E}") = "MusicGame", "Assembly-CSharp.csproj", "{8A403B6E-7256-83DC-3398-16378C4504CE}"
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MusicGame", "Assembly-CSharp.csproj", "{8A403B6E-7256-83DC-3398-16378C4504CE}"
 EndProject
-Project("{1FDF8518-5510-7E17-831F-29C6D3300D9E}") = "MusicGame", "Assembly-CSharp-Editor.csproj", "{6FCBA019-E3A9-1294-B5B2-F0F4397CCFAF}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MusicGame", "Assembly-CSharp-Editor.csproj", "{6FCBA019-E3A9-1294-B5B2-F0F4397CCFAF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
